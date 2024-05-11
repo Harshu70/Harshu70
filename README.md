@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Harshu70
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and problem-solving
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on open source 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on open-source 
+- 📫 How to reach me ...Gmail:- harshuraj7070@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
